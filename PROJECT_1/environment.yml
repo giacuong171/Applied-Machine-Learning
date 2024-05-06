@@ -1,0 +1,17 @@
+name: aml_p1 
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter=1.0.0
+  - notebook=6.4.7
+  - bokeh=1.2.0
+  - numpy=1.16.3
+  - pandas=0.24.2
+  - openpyxl=3.0.0
+  - xlrd=1.2.0
+  - keras=2.2.4
+  - Jinja2==3.0.3
+  - pip:
+    - git+https://github.com/CIMCB/cimcb.git

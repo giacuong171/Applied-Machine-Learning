@@ -1,0 +1,511 @@
+"",title0
+GSM3304749,789B: Tumor of Patient 789
+GSM3304750,789A: Adenoma of Patient 789
+GSM3304751,271C: Adjacent Mucosa of Patient 271
+GSM3304752,271B: Tumor of Patient 271
+GSM3304753,271A: Adenoma of Patient 271
+GSM3304754,2615C: Adjacent Mucosa of Patient 2615
+GSM3304755,2615B: Tumor of Patient 2615
+GSM3304756,2615A: SSA of Patient 2615
+GSM3304757,3492C: Adjacent Mucosa of Patient 3492
+GSM3304758,3492B: Tumor of Patient 3492
+GSM3304759,3492A: Adenoma of Patient 3492
+GSM3304760,1487C: Adjacent Mucosa of Patient 1487
+GSM3304761,1487B: Tumor of Patient 1487
+GSM3304762,1467C: Adjacent Mucosa of Patient 1467
+GSM3304763,833C: Adjacent Mucosa of Patient 833
+GSM3304764,833B: Tumor of Patient 833
+GSM3304765,833A: Adenoma of Patient 833
+GSM3304766,7479C: Adjacent Mucosa of Patient 7479
+GSM3304767,7479B: Tumor of Patient 7479
+GSM3304768,7479A: Adenoma of Patient 7479
+GSM3304769,744C: Adjacent Mucosa of Patient 744
+GSM3304770,744B: Tumor of Patient 744
+GSM3304771,744A: Adenoma of Patient 744
+GSM3304772,533C: Adjacent Mucosa of Patient 533
+GSM3304773,533B: Tumor of Patient 533
+GSM3304774,533A: Adenoma of Patient 533
+GSM3304775,4250C: Adjacent Mucosa of Patient 4250
+GSM3304776,4250B: Tumor of Patient 4250
+GSM3304777,4250A: Adenoma of Patient 4250
+GSM3304778,4210C: Adjacent Mucosa of Patient 4210
+GSM3304779,4210B: Tumor of Patient 4210
+GSM3304780,4210A: Adenoma of Patient 4210
+GSM3304781,3550C: Adjacent Mucosa of Patient 3550
+GSM3304782,3550B: Tumor of Patient 3550
+GSM3304783,3550A: SSA of Patient 3550
+GSM3304784,3251C: Adjacent Mucosa of Patient 3251
+GSM3304785,3251B: Tumor of Patient 3251
+GSM3304786,3251A: Adenoma of Patient 3251
+GSM3304787,300B: Tumor of Patient 300
+GSM3304788,300A: Adenoma of Patient 300
+GSM3304789,2969B: Tumor of Patient 2969
+GSM3304790,2969A: Adenoma of Patient 2969
+GSM3304791,2089C: Adjacent Mucosa of Patient 2089
+GSM3304792,2089B: Tumor of Patient 2089
+GSM3304793,2089A: Adenoma of Patient 2089
+GSM3304794,119C: Adjacent Mucosa of Patient 119
+GSM3304795,119B: Tumor of Patient 119
+GSM3304796,119A: Adenoma of Patient 119
+GSM3304797,355C: Adjacent Mucosa of Patient 355
+GSM3304798,355A: Adenoma of Patient 355
+GSM3304799,1889C: Adjacent Mucosa of Patient 1889
+GSM3304800,1889B: Tumor of Patient 1889
+GSM3304801,1889A: Tumor of Patient 1889
+GSM3304802,2743C: Adjacent Mucosa of Patient 2743
+GSM3304803,2743B: Tumor of Patient 2743
+GSM3304804,2743A: Adenoma of Patient 2743
+GSM3304805,1998B: Tumor of Patient 1998
+GSM3304806,1998A: Adenoma of Patient 1998
+GSM3304807,692C: Adjacent Mucosa of Patient 692
+GSM3304808,692B: Tumor of Patient 692
+GSM3304809,692A: Adenoma of Patient 692
+GSM3304810,2505C: Adjacent Mucosa of Patient 2505
+GSM3304811,2505A: Adenoma of Patient 2505
+GSM3304812,2488B: Tumor of Patient 2488
+GSM3304813,2488A: Tumor of Patient 2488
+GSM3304814,1860C: Adjacent Mucosa of Patient 1860
+GSM3304815,1860A: Adenoma of Patient 1860
+GSM3304816,1818C: Adjacent Mucosa of Patient 1818
+GSM3304817,1818B: Tumor of Patient 1818
+GSM3304818,1818A: Tumor of Patient 1818
+GSM3304819,2818C: Adjacent Mucosa of Patient 2818
+GSM3304820,2818B: Tumor of Patient 2818
+GSM3304821,2818A: Adenoma of Patient 2818
+GSM3304822,5073C: Adjacent Mucosa of Patient 5073
+GSM3304823,5073B: Tumor of Patient 5073
+GSM3304824,5073A: SSA of Patient 5073
+GSM3304825,5960C: Adjacent Mucosa of Patient 5960
+GSM3304826,5960B: Tumor of Patient 5960
+GSM3304827,5960A: Adenoma of Patient 5960
+GSM3304828,73C: Adjacent Mucosa of Patient 73
+GSM3304829,73B: Tumor of Patient 73
+GSM3304830,3763C: Adjacent Mucosa of Patient 3763
+GSM3304831,3763B: Tumor of Patient 3763
+GSM3304832,3763A: Adenoma of Patient 3763
+GSM3304833,9872C: Adjacent Mucosa of Patient 9872
+GSM3304834,9872B: Tumor of Patient 9872
+GSM3304835,9872A: Adenoma of Patient 9872
+GSM3304836,12071C: Adjacent Mucosa of Patient 12071
+GSM3304837,12071B: Tumor of Patient 12071
+GSM3304838,12071A: SSA of Patient 12071
+GSM3304839,984B: Tumor of Patient 984
+GSM3304840,984A: SSA of Patient 984
+GSM3304841,449C: Adjacent Mucosa of Patient 449
+GSM3304842,449B: Tumor of Patient 449
+GSM3304843,449A: Adenoma of Patient 449
+GSM3304844,974C: Adjacent Mucosa of Patient 974
+GSM3304845,974B: Tumor of Patient 974
+GSM3304846,974A: Adenoma of Patient 974
+GSM3304847,921C: Adjacent Mucosa of Patient 921
+GSM3304848,921B: Tumor of Patient 921
+GSM3304849,921A: Adenoma of Patient 921
+GSM3304850,1506C: Adjacent Mucosa of Patient 1506
+GSM3304851,1506B: Tumor of Patient 1506
+GSM3304852,1506A: Adenoma of Patient 1506
+GSM3304853,11218B: Tumor of Patient 11218
+GSM3304854,11218A: Adenoma of Patient 11218
+GSM3304855,10743C: Adjacent Mucosa of Patient 10743
+GSM3304856,10743B: Tumor of Patient 10743
+GSM3304857,10743A: Adenoma of Patient 10743
+GSM3304858,290C: Adjacent Mucosa of Patient 290
+GSM3304859,290B: Tumor of Patient 290
+GSM3304860,290A: Adenoma of Patient 290
+GSM3304861,9684C: Adjacent Mucosa of Patient 9684
+GSM3304862,9684B: Tumor of Patient 9684
+GSM3304863,9684A: Adenoma of Patient 9684
+GSM3304864,9060C: Adjacent Mucosa of Patient 9060
+GSM3304865,9060B: Tumor of Patient 9060
+GSM3304866,9060A: Adenoma of Patient 9060
+GSM3304867,7030C: Adjacent Mucosa of Patient 7030
+GSM3304868,7030B: Tumor of Patient 7030
+GSM3304869,7030A: Adenoma of Patient 7030
+GSM3304870,4298C: Adjacent Mucosa of Patient 4298
+GSM3304871,4298B: Tumor of Patient 4298
+GSM3304872,4298A: Adenoma of Patient 4298
+GSM3304873,1093C: Adjacent Mucosa of Patient 1093
+GSM3304874,1093B: Tumor of Patient 1093
+GSM3304875,1093A: Adenoma of Patient 1093
+GSM3304876,392C: Adjacent Mucosa of Patient 392
+GSM3304877,392B: Tumor of Patient 392
+GSM3304878,392A: Adenoma of Patient 392
+GSM3304879,3679B: Tumor of Patient 3679
+GSM3304880,3679A: Adenoma of Patient 3679
+GSM3304881,3392C: Adjacent Mucosa of Patient 3392
+GSM3304882,3392B: Tumor of Patient 3392
+GSM3304883,3392A: Adenoma of Patient 3392
+GSM3304884,1865C: Adjacent Mucosa of Patient 1865
+GSM3304885,1865B: Tumor of Patient 1865
+GSM3304886,1865A: SSA of Patient 1865
+GSM3304887,5647C: Adjacent Mucosa of Patient 5647
+GSM3304888,5647B: Tumor of Patient 5647
+GSM3304889,5647A: SSA of Patient 5647
+GSM3304890,2866C: Adjacent Mucosa of Patient 2866
+GSM3304891,2866B: Tumor of Patient 2866
+GSM3304892,2866A: Adenoma of Patient 2866
+GSM3304893,1716C: Adjacent Mucosa of Patient 1716
+GSM3304894,1716B: Tumor of Patient 1716
+GSM3304895,1716A: SSA of Patient 1716
+GSM3304896,6758C: Adjacent Mucosa of Patient 6758
+GSM3304897,6758B: Tumor of Patient 6758
+GSM3304898,6758A: Adenoma of Patient 6758
+GSM3304899,6513C: Adjacent Mucosa of Patient 6513
+GSM3304900,6513B: Tumor of Patient 6513
+GSM3304901,6513A: Adenoma of Patient 6513
+GSM3304902,4733C: Adjacent Mucosa of Patient 4733
+GSM3304903,4733B: Tumor of Patient 4733
+GSM3304904,4733A: Adenoma of Patient 4733
+GSM3304905,4390C: Adjacent Mucosa of Patient 4390
+GSM3304906,4390B: Tumor of Patient 4390
+GSM3304907,4390A: SSA of Patient 4390
+GSM3304908,1246C: Adjacent Mucosa of Patient 1246
+GSM3304909,1246B: Tumor of Patient 1246
+GSM3304910,1246A: Adenoma of Patient 1246
+GSM3304911,435C: Adjacent Mucosa of Patient 435
+GSM3304912,435B: Tumor of Patient 435
+GSM3304913,435A: Adenoma of Patient 435
+GSM3304914,4155C: Adjacent Mucosa of Patient 4155
+GSM3304915,4155B: Tumor of Patient 4155
+GSM3304916,4155A: Adenoma of Patient 4155
+GSM3304917,2967C: Adjacent Mucosa of Patient 2967
+GSM3304918,2967B: Tumor of Patient 2967
+GSM3304919,2967A: SSA of Patient 2967
+GSM3304920,5570B: Tumor of Patient 5570
+GSM3304921,5570A: Adenoma of Patient 5570
+GSM3304922,5543C: Adjacent Mucosa of Patient 5543
+GSM3304923,5543B: Tumor of Patient 5543
+GSM3304924,5543A: Adenoma of Patient 5543
+GSM3304925,4507C: Adjacent Mucosa of Patient 4507
+GSM3304926,4507B: Tumor of Patient 4507
+GSM3304927,4507A: Adenoma of Patient 4507
+GSM3304928,25C: Adjacent Mucosa of Patient 25
+GSM3304929,25B: Tumor of Patient 25
+GSM3304930,25A: Adenoma of Patient 25
+GSM3304931,1627C: Adjacent Mucosa of Patient 1627
+GSM3304932,1627B: Tumor of Patient 1627
+GSM3304933,1627A: Adenoma of Patient 1627
+GSM3304934,678C: Adjacent Mucosa of Patient 678
+GSM3304935,678B: Tumor of Patient 678
+GSM3304936,678A: Adenoma of Patient 678
+GSM3304937,559B: Tumor of Patient 559
+GSM3304938,559A: Adenoma of Patient 559
+GSM3304939,4755C: Adjacent Mucosa of Patient 4755
+GSM3304940,4755B: Tumor of Patient 4755
+GSM3304941,4755A: Adenoma of Patient 4755
+GSM3304942,4397C: Adjacent Mucosa of Patient 4397
+GSM3304943,4397B: Tumor of Patient 4397
+GSM3304944,4397A: Adenoma of Patient 4397
+GSM3304945,3976C: Adjacent Mucosa of Patient 3976
+GSM3304946,3976B: Tumor of Patient 3976
+GSM3304947,3976A: Adenoma of Patient 3976
+GSM3304948,3809C: Adjacent Mucosa of Patient 3809
+GSM3304949,3809B: Tumor of Patient 3809
+GSM3304950,3809A: Adenoma of Patient 3809
+GSM3304951,2942C: Adjacent Mucosa of Patient 2942
+GSM3304952,2942B: Tumor of Patient 2942
+GSM3304953,2942A: Adenoma of Patient 2942
+GSM3304954,2364C: Adjacent Mucosa of Patient 2364
+GSM3304955,2364B: Tumor of Patient 2364
+GSM3304956,2364A: Adenoma of Patient 2364
+GSM95473,colon_normal_1024
+GSM95474,colon_normal_1081
+GSM95475,colon_normal_1114
+GSM95476,colon_normal_1122
+GSM95477,colon_normal_1357
+GSM95478,colon_normal_1431
+GSM95479,colon_normal_1440
+GSM95480,colon_normal_1456
+GSM95481,colon_adenoma_1115
+GSM95482,colon_adenoma_1138
+GSM95483,colon_adenoma_1141
+GSM95484,colon_adenoma_1154
+GSM95485,colon_adenoma_1187
+GSM95486,colon_adenoma_1312
+GSM95487,colon_adenoma_1419
+GSM95488,colon_adenoma_1700
+GSM95489,colon_adenoma_1748
+GSM95490,colon_adenoma_1830
+GSM95491,colon_adenoma_1832
+GSM95492,colon_adenoma_956
+GSM95493,colon_adenoma_980
+GSM95494,colon_adenoma_983
+GSM95495,colon_adenoma_995
+GSM95496,colon_CRC_1146
+GSM95497,colon_CRC_1158
+GSM95498,colon_CRC_1293
+GSM95499,colon_CRC_1316
+GSM95500,colon_CRC_1377
+GSM95501,colon_CRC_1479
+GSM95502,colon_CRC_1486
+GSM95503,colon_CRC_1494
+GSM95504,colon_CRC_1499
+GSM95505,colon_CRC_1556
+GSM95506,colon_CRC_1651
+GSM95507,colon_CRC_1708
+GSM95508,colon_CRC_1739
+GSM95509,colon_CRC_1761
+GSM95510,colon_CRC_1883
+GSM95511,colon_IBD_1110
+GSM95512,colon_IBD_1118
+GSM95513,colon_IBD_1537
+GSM95514,colon_IBD_1670
+GSM95515,colon_IBD_1802
+GSM95516,colon_IBD_923
+GSM95517,colon_IBD_1017
+GSM95518,colon_IBD_1060
+GSM95519,colon_IBD_1156
+GSM95520,colon_IBD_1175
+GSM95521,colon_IBD_1368
+GSM95522,colon_IBD_1533
+GSM95523,colon_IBD_1606
+GSM95524,colon_IBD_1665
+GSM95525,colon_IBD_939
+GSM1829199,Whole_embryo_rep1
+GSM1829200,Whole_embryo_rep2
+GSM1829201,Whole_embryo_rep3
+GSM1829202,Whole_embryo_rep4
+GSM1829203,Whole_embryo_rep5
+GSM1829204,Whole_embryo_rep6
+GSM1829205,Early_embryonic_colon_rep1
+GSM1829206,Early_embryonic_colon_rep2
+GSM1829207,Early_embryonic_colon_rep3
+GSM1829208,Early_embryonic_colon_rep4
+GSM1829209,Early_embryonic_colon_rep5
+GSM1829210,Early_embryonic_colon_rep6
+GSM1829211,Middle_embryonic_colon_rep1
+GSM1829212,Middle_embryonic_colon_rep2
+GSM1829213,Middle_embryonic_colon_rep3
+GSM1829214,Middle_embryonic_colon_rep4
+GSM1829215,Middle_embryonic_colon_rep5
+GSM1829216,Middle_embryonic_colon_rep6
+GSM1829217,Middle_embryonic_colon_rep7
+GSM1829218,Middle_embryonic_colon_rep8
+GSM1829219,Normal rectum mucosa_rep1
+GSM1829220,Normal rectum mucosa_rep2
+GSM1829221,Normal rectum mucosa_rep3
+GSM1829222,Normal rectum mucosa_rep4
+GSM1829223,Normal rectum mucosa_rep5
+GSM1829224,Normal rectum mucosa_rep6
+GSM1829225,Normal rectum mucosa_rep7
+GSM1829226,Normal rectum mucosa_rep8
+GSM1829227,Normal rectum mucosa_rep9
+GSM1829228,Normal rectum mucosa_rep10
+GSM1829229,Normal rectum mucosa_rep11
+GSM1829230,Normal rectum mucosa_rep12
+GSM1829231,Colorectal Adenoma tissue_rep1
+GSM1829232,Colorectal Adenoma tissue_rep2
+GSM1829233,Colorectal Adenoma tissue_rep3
+GSM1829234,Colorectal Adenoma tissue_rep4
+GSM1829235,Colorectal Adenoma tissue_rep5
+GSM1829236,Colorectal Adenoma tissue_rep6
+GSM1829237,Colorectal Adenoma tissue_rep7
+GSM1829238,Colorectal Adenoma tissue_rep8
+GSM1829239,Colorectal Adenoma tissue_rep9
+GSM1829240,Colorectal Adenoma tissue_rep10
+GSM1829241,Colorectal Adenoma tissue_rep11
+GSM1829242,Colorectal Adenoma tissue_rep12
+GSM1829243,Colorectal Adenoma tissue_rep13
+GSM1829244,Colorectal Adenoma tissue_rep14
+GSM1829245,Colorectal Adenoma tissue_rep15
+GSM1829246,Colorectal Adenoma tissue_rep16
+GSM1829247,Colorectal Adenoma tissue_rep17
+GSM1829248,Colorectal Adenoma tissue_rep18
+GSM1829249,Colorectal Adenoma tissue_rep19
+GSM1829250,Colorectal Adenoma tissue_rep20
+GSM1829251,Colorectal Adenoma tissue_rep21
+GSM1829252,Colorectal Adenoma tissue_rep22
+GSM1829253,Colorectal Adenoma tissue_rep23
+GSM1829254,Colorectal Adenoma tissue_rep24
+GSM1829255,Colorectal Adenoma tissue_rep25
+GSM1829256,Colorectal Adenoma tissue_rep26
+GSM1829257,Colorectal Adenoma tissue_rep27
+GSM1829258,Colorectal Adenoma tissue_rep28
+GSM1829259,Colorectal Adenoma tissue_rep29
+GSM1829260,Colorectal Adenoma tissue_rep30
+GSM1829261,Colorectal Adenoma tissue_rep31
+GSM1829262,Colorectal Adenoma tissue_rep32
+GSM1829263,Colorectal Adenoma tissue_rep33
+GSM1829264,Colorectal Adenoma tissue_rep34
+GSM1829265,Colorectal Adenoma tissue_rep35
+GSM1829266,Colorectal Adenoma tissue_rep36
+GSM1829267,Colorectal Adenoma tissue_rep37
+GSM1829268,Colorectal Adenoma tissue_rep38
+GSM1829269,Colorectal Adenoma tissue_rep39
+GSM1829270,Colorectal Adenoma tissue_rep40
+GSM1829271,Colorectal Adenoma tissue_rep41
+GSM1829272,Colorectal Adenoma tissue_rep42
+GSM1829273,Colorectal Adenoma tissue_rep43
+GSM1829274,Colorectal Adenoma tissue_rep44
+GSM1829275,Colorectal Adenoma tissue_rep45
+GSM1829276,Colorectal Adenoma tissue_rep46
+GSM1829277,Colorectal Adenoma tissue_rep47
+GSM1829278,Colorectal Adenoma tissue_rep48
+GSM1829279,Colorectal Adenoma tissue_rep49
+GSM1829280,Colorectal Adenoma tissue_rep50
+GSM1829281,Colorectal Adenoma tissue_rep51
+GSM1829282,Colorectal Adenoma tissue_rep52
+GSM1829283,Colorectal Adenoma tissue_rep53
+GSM1829284,Colorectal Adenoma tissue_rep54
+GSM1829285,Colorectal Adenoma tissue_rep55
+GSM1829286,Colorectal Adenoma tissue_rep56
+GSM1829287,Colorectal Adenoma tissue_rep57
+GSM1829288,Colorectal Adenoma tissue_rep58
+GSM1829289,Colorectal Cancer_tissue_rep1
+GSM1829290,Colorectal Cancer_tissue_rep2
+GSM1829291,Colorectal Cancer_tissue_rep3
+GSM1829292,Colorectal Cancer_tissue_rep4
+GSM1829293,Colorectal Cancer_tissue_rep5
+GSM1829294,Colorectal Cancer_tissue_rep6
+GSM1829295,Colorectal Cancer_tissue_rep7
+GSM1829296,Colorectal Cancer_tissue_rep8
+GSM1829297,Colorectal Cancer_tissue_rep9
+GSM1829298,Colorectal Cancer_tissue_rep10
+GSM1829299,Colorectal Cancer_tissue_rep11
+GSM1829300,Colorectal Cancer_tissue_rep12
+GSM1829301,Colorectal Cancer_tissue_rep13
+GSM1829302,Colorectal Cancer_tissue_rep14
+GSM1829303,Colorectal Cancer_tissue_rep15
+GSM1829304,Colorectal Cancer_tissue_rep16
+GSM1829305,Colorectal Cancer_tissue_rep17
+GSM1829306,Colorectal Cancer_tissue_rep18
+GSM1829307,Colorectal Cancer_tissue_rep19
+GSM1829308,Colorectal Cancer_tissue_rep20
+GSM1829309,Colorectal Cancer_tissue_rep21
+GSM1829310,Colorectal Cancer_tissue_rep22
+GSM1829311,Colorectal Cancer_tissue_rep23
+GSM1829312,Colorectal Cancer_tissue_rep24
+GSM1829313,Colorectal Cancer_tissue_rep25
+GSM1829314,Colorectal Cancer_tissue_rep26
+GSM1829315,Colorectal Cancer_tissue_rep27
+GSM1829316,Colorectal Cancer_tissue_rep28
+GSM1829317,Colorectal Cancer_tissue_rep29
+GSM1829318,Colorectal Cancer_tissue_rep30
+GSM1829319,Colorectal Cancer_tissue_rep31
+GSM1829320,Colorectal Cancer_tissue_rep32
+GSM1829321,Colorectal Cancer_tissue_rep33
+GSM1829322,Colorectal Cancer_tissue_rep34
+GSM1829323,Colorectal Cancer_tissue_rep35
+GSM1829324,Colorectal Cancer_tissue_rep36
+GSM1829325,Colorectal Cancer_tissue_rep37
+GSM1829326,Colorectal Cancer_tissue_rep38
+GSM1829327,Colorectal Cancer_tissue_rep39
+GSM1829328,Colorectal Cancer_tissue_rep40
+GSM1829329,Colorectal Cancer_tissue_rep41
+GSM1829330,Colorectal Cancer_tissue_rep42
+GSM1829331,Colorectal Cancer_tissue_rep43
+GSM1829332,Colorectal Cancer_tissue_rep44
+GSM1829333,Colorectal Cancer_tissue_rep45
+GSM1829334,Colorectal Cancer_tissue_rep46
+GSM1829335,Colorectal Cancer_tissue_rep47
+GSM1829336,Colorectal_Cancer_Survival_Patient1
+GSM1829337,Colorectal_Cancer_Survival_Patient2
+GSM1829338,Colorectal_Cancer_Survival_Patient3
+GSM1829339,Colorectal_Cancer_Survival_Patient4
+GSM1829340,Colorectal_Cancer_Survival_Patient5
+GSM1829341,Colorectal_Cancer_Survival_Patient6
+GSM1829342,Colorectal_Cancer_Survival_Patient7
+GSM1829343,Colorectal_Cancer_Survival_Patient8
+GSM1829344,Colorectal_Cancer_Survival_Patient9
+GSM1829345,Colorectal_Cancer_Survival_Patient10
+GSM1829346,Colorectal_Cancer_Survival_Patient11
+GSM1829347,Colorectal_Cancer_Survival_Patient12
+GSM1829348,Colorectal_Cancer_Survival_Patient13
+GSM1829349,Colorectal_Cancer_Survival_Patient14
+GSM1829350,Colorectal_Cancer_Survival_Patient15
+GSM1829351,Colorectal_Cancer_Survival_Patient16
+GSM1829352,Colorectal_Cancer_Survival_Patient17
+GSM1829353,Colorectal_Cancer_Survival_Patient18
+GSM1829354,Colorectal_Cancer_Survival_Patient19
+GSM1829355,Colorectal_Cancer_Survival_Patient20
+GSM1829356,Colorectal_Cancer_Survival_Patient21
+GSM1829357,Colorectal_Cancer_Survival_Patient22
+GSM1829358,Colorectal_Cancer_Survival_Patient23
+GSM1829359,Colorectal_Cancer_Survival_Patient24
+GSM1829360,Colorectal_Cancer_Survival_Patient25
+GSM1829361,Colorectal_Cancer_Survival_Patient26
+GSM1829362,Colorectal_Cancer_Survival_Patient27
+GSM1829363,Colorectal_Cancer_Survival_Patient28
+GSM1829364,Colorectal_Cancer_Survival_Patient29
+GSM1829365,Colorectal_Cancer_Survival_Patient30
+GSM1829366,Colorectal_Cancer_Survival_Patient31
+GSM1829367,Colorectal_Cancer_Survival_Patient32
+GSM1829368,Colorectal_Cancer_Survival_Patient33
+GSM1829369,Colorectal_Cancer_Survival_Patient34
+GSM1829370,Colorectal_Cancer_Survival_Patient35
+GSM1829371,Colorectal_Cancer_Survival_Patient36
+GSM1829372,Colorectal_Cancer_Survival_Patient37
+GSM1829373,Colorectal_Cancer_Survival_Patient38
+GSM1829374,Colorectal_Cancer_Survival_Patient39
+GSM1829375,Colorectal_Cancer_Survival_Patient40
+GSM1829376,Colorectal_Cancer_Survival_Patient41
+GSM1829377,Colorectal_Cancer_Survival_Patient42
+GSM1829378,Colorectal_Cancer_Survival_Patient43
+GSM1829379,Colorectal_Cancer_Survival_Patient44
+GSM1829380,Colorectal_Cancer_Survival_Patient45
+GSM1829381,Colorectal_Cancer_Survival_Patient46
+GSM1829382,Colorectal_Cancer_Survival_Patient47
+GSM1829383,Colorectal_Cancer_Survival_Patient48
+GSM1829384,Colorectal_Cancer_Survival_Patient49
+GSM1829385,Colorectal_Cancer_Survival_Patient50
+GSM1829386,Colorectal_Cancer_Survival_Patient51
+GSM1829387,Colorectal_Cancer_Survival_Patient52
+GSM2674157,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674158,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674159,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674160,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674161,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674162,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674163,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674164,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674165,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674166,"tissue: Tubulovillous adenoma biopsy, low-grade"
+GSM2674167,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674168,"tissue: Tubulovillous adenoma biopsy, low-grade"
+GSM2674169,"tissue: Tubulovillous adenoma biopsy, high-grade"
+GSM2674170,"tissue: Tubulovillous adenoma biopsy, low-grade"
+GSM2674171,"tissue: Tubulovillous adenoma biopsy, low-grade"
+GSM2674172,"tissue: Tubulovillous adenoma biopsy, high-grade"
+GSM2674173,"tissue: Tubular adenoma biopsy, low-grade"
+GSM2674174,"tissue: Tubulovillous adenoma biopsy, low-grade biopsy sample"
+GSM2674175,"tissue: Villous / tubulovillous adenoma biopsy, low-grade"
+GSM2674176,"tissue: Tubulovillous adenoma biopsy, low-grade"
+GSM2674177,tissue: healthy colon biopsy
+GSM2674178,tissue: healthy colon biopsy
+GSM2674179,tissue: healthy colon biopsy
+GSM2674180,tissue: healthy colon biopsy
+GSM2674181,tissue: healthy colon biopsy
+GSM2674182,tissue: healthy colon biopsy
+GSM2674183,tissue: healthy colon biopsy
+GSM2674184,tissue: healthy colon biopsy
+GSM2674185,tissue: healthy colon biopsy
+GSM2674186,tissue: healthy colon biopsy
+GSM2674187,tissue: healthy colon biopsy
+GSM2674188,tissue: healthy colon biopsy
+GSM2674189,tissue: healthy colon biopsy
+GSM2674190,tissue: healthy colon biopsy
+GSM2674191,tissue: healthy colon biopsy
+GSM2674192,tissue: healthy colon biopsy
+GSM2674193,tissue: healthy colon biopsy
+GSM2674194,tissue: healthy colon biopsy
+GSM2674195,tissue: healthy colon biopsy
+GSM2674196,tissue: healthy colon biopsy
+GSM2674197,"tissue: Colorectal adenocarcinoma biopsy, Dukes B2"
+GSM2674198,"tissue: Colorectal adenocarcinoma biopsy, Dukes C"
+GSM2674199,"tissue: Colorectal adenocarcinoma biopsy, Dukes B1"
+GSM2674200,"tissue: Colorectal adenocarcinoma biopsy, Dukes D"
+GSM2674201,"tissue: Colorectal adenocarcinoma biopsy, Dukes D"
+GSM2674202,"tissue: Colorectal adenocarcinoma biopsy, unknown"
+GSM2674203,"tissue: Colorectal adenocarcinoma biopsy, Dukes B2"
+GSM2674204,"tissue: Colorectal adenocarcinoma biopsy, Dukes B2"
+GSM2674205,"tissue: Colorectal adenocarcinoma biopsy, Dukes B1"
+GSM2674206,"tissue: Colorectal adenocarcinoma biopsy, Dukes B1"
+GSM2674207,"tissue: Colorectal adenocarcinoma biopsy, Dukes C"
+GSM2674208,"tissue: Colorectal adenocarcinoma biopsy, Dukes B2"
+GSM2674209,"tissue: Colorectal adenocarcinoma biopsy, Dukes C"
+GSM2674210,"tissue: Colorectal adenocarcinoma biopsy, Dukes B2"
+GSM2674211,"tissue: Colorectal adenocarcinoma biopsy, Dukes D"
+GSM2674212,"tissue: Colorectal adenocarcinoma biopsy, Dukes C"
+GSM2674213,"tissue: Colorectal adenocarcinoma biopsy, Dukes B2"
+GSM2674214,"tissue: Colorectal adenocarcinoma biopsy, Dukes C2"
+GSM2674215,"tissue: Colorectal adenocarcinoma biopsy, Dukes D"
+GSM2674216,"tissue: Colorectal adenocarcinoma biopsy, Dukes D"
